@@ -6,7 +6,11 @@ Features:
 - Verification.
 - Search about places
 
-
+Instructions
+- Go to Google Map https://mapsplatform.google.com/.
+- Create an account.
+- Create project and copy apikey.
+- Put the apikey in the appropriate place.
 
 Screens:
 
