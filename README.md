@@ -4,8 +4,8 @@ Features:
 - Firebase backend
 - Authentication by Mobile.
 - Verification.
-- Current Location
-- Search about places
+- Current Location.
+- Search about places.
 
 Instructions
 - Go to Google Map https://mapsplatform.google.com/.
