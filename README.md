@@ -4,6 +4,7 @@ Features:
 - Firebase backend
 - Authentication by Mobile.
 - Verification.
+- Current Location
 - Search about places
 
 Instructions
